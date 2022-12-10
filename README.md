@@ -56,4 +56,5 @@ Currently exposed environmental variables and their default values
 - TZ America/New_York
  
 For additional information join us on Discord: https://discord.gg/QFFRxyT
+
 #HappyGaming
