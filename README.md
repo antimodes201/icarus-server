@@ -1,4 +1,4 @@
-# solace-crafting-server
+# icarus-server
 Docker Container for Icarus Dedicated Server
 
 Build to create a containerized version of the dedicated server for Icarus
